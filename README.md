@@ -30,8 +30,3 @@ When a user attempts to bypass the cart and directly order a product, the system
 - Ensures proper order processing flow.
 - Prevents accidental or unauthorized direct product orders.
 - Maintains consistent cart behavior across your Odoo instance.
-
-## Contributing
-
-Feel free to submit issues or pull requests to improve the module.  
-Please follow standard Odoo module development practices.
