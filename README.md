@@ -35,5 +35,3 @@ When a user attempts to bypass the cart and directly order a product, the system
 
 Feel free to submit issues or pull requests to improve the module.  
 Please follow standard Odoo module development practices.
-
-## License
